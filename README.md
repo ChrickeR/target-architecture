@@ -1,5 +1,5 @@
 # Target Architecture
-Suitable Target Architecture For A Mid-sized Insurance Company
+Target Architecture Intended For Mid-sized Insurance Companies And Companies Alike
 
 ## Definition Of Target Architecture
 > The description of a future state of the architecture being developed for an organization. There may be several future states developed as a roadmap to show the evolution of the architecture to a target state.
