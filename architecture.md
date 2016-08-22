@@ -29,6 +29,10 @@ Source: [Microservices Resource Guide](http://martinfowler.com/microservices/#wh
 Source: [What are containers and why do you need them?](http://www.cio.com/article/2924995/enterprise-software/what-are-containers-and-why-do-you-need-them.html)
 
 ## Patterns, Principles And Standardizations
+### Patterns
+### Principles
+### Standardizations
+
 
 ## Further Reading
 * [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture)
