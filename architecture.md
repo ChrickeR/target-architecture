@@ -30,6 +30,17 @@ Source: [What are containers and why do you need them?](http://www.cio.com/artic
 
 
 ## PATTERNS
+
+### STABILITY PATTERNS (INTEGRATION) PATTERNS
+> Reliability in distributed systems is determined by the weakest component, so even a minor internal function could bring your entire system down. Learn how stability patterns anticipate the hot spots of distributed network behavior
+
+* 'Use Timeouts' pattern
+* 'Circuit Breaker' pattern
+* 'Handshaking' pattern
+* 'Bulkheads' pattern
+
+Source: [Stability patterns applied in a RESTful architecture](http://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
+
 ## PRINCIPLES
 
 ## STANDARDIZATIONS
