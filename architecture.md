@@ -33,6 +33,11 @@ Source: [What are containers and why do you need them?](http://www.cio.com/artic
 
 ## STANDARDIZATIONS
 
+### CONTAINER REGISTRY 
+#### [GOOGLE CONTAINER REGISTRY](https://cloud.google.com/container-registry/)
+Fast, private Docker image storage on Google Cloud Platform
+
+
 ### INTEGRATION BETWEEN SERVICES
 #### REQUEST-RESPONSE
 ##### RESTFUL: [JSON API](http://jsonapi.org/)
