@@ -28,10 +28,43 @@ Source: [Microservices Resource Guide](http://martinfowler.com/microservices/#wh
 
 Source: [What are containers and why do you need them?](http://www.cio.com/article/2924995/enterprise-software/what-are-containers-and-why-do-you-need-them.html)
 
+
 ## PATTERNS
 ## PRINCIPLES
 
 ## STANDARDIZATIONS
+
+### REVISION CONTROL AND SOURCE CODE MANAGEMENT
+#### [GitHub](https://github.com)
+> GitHub is a web-based Git repository hosting service. It offers all of the distributed revision control and source code management(SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly acommand-line tool, GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests,task management, and wikis for every project.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
+
+### BUG TRACKING, FEATURE REQUESTS, TASK MANAGEMENT AND DOCUMENTATION
+#### [GitHub](https://github.com)
+> GitHub is a web-based Git repository hosting service. It offers all of the distributed revision control and source code management(SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly acommand-line tool, GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests,task management, and wikis for every project.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
+
+### CONTAINER TECHNOLOGY
+#### [DOCKER CONTAINERS](https://www.docker.com/what-docker)
+Docker containers wrap a piece of software in a complete filesystem that contains everything needed to run: code, runtime, system tools, system libraries – anything that can be installed on a server. This guarantees that the software will always run the same, regardless of its environment.
+
+
+### CONTAINER ORCHESTRATION
+#### [KUBERNETES](http://kubernetes.io/)
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+
+
+### CAAS (CONTAINER AS A SERVICE
+#### [GOOGLE CONTAINER ENGINE](https://cloud.google.com/container-engine/)
+Google Container Engine is a powerful cluster manager and orchestration system for running your Docker containers. Container Engine schedules your containers into the cluster and manages them automatically based on requirements you define (such as CPU and memory). It's built on the open source Kubernetes system, giving you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.
+
+
+### CONTAINER WORKFLOW
+#### [DEIS WORKFLOW](https://deis.com/workflow/)
+Deis Workflow is an open source Platform as a Service (PaaS) that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications.
+
 
 ### CONTAINER REGISTRY 
 #### [GOOGLE CONTAINER REGISTRY](https://cloud.google.com/container-registry/)
