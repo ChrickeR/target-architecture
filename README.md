@@ -15,6 +15,7 @@ Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/
 
 ## Target Architecture Anti-patterns
 * [Traditional Digital Strategy](https://www.thoughtworks.com/insights/blog/digital-strategy-dead)
+* [Architecture as a Recipe](http://doveltech.com/innovation/the-beginning-of-the-end-for-enterprise-architecture-frameworks/)
 
 ## How To Use The Target Architecture
 1. The target architecture is the desired state
