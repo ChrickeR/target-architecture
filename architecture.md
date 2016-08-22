@@ -28,10 +28,47 @@ Source: [Microservices Resource Guide](http://martinfowler.com/microservices/#wh
 
 Source: [What are containers and why do you need them?](http://www.cio.com/article/2924995/enterprise-software/what-are-containers-and-why-do-you-need-them.html)
 
-## Patterns, Principles And Standardizations
-### Patterns
-### Principles
-### Standardizations
+## PATTERNS
+## PRINCIPLES
+
+## STANDARDIZATIONS
+
+### INTEGRATION BETWEEN SERVICES
+#### REQUEST-RESPONSE
+##### RESTFUL: [JSON API](http://jsonapi.org/)
+> If you’ve ever argued with your team about the way your JSON responses should be formatted, JSON API can be your anti-bikeshedding tool.
+
+> By following shared conventions, you can increase productivity, take advantage of generalized tooling, and focus on what matters: your application.
+
+> Clients built around JSON API are able to take advantage of its features around efficiently caching responses, sometimes eliminating network requests entirely.
+
+##### RPC: [GRPC](http://www.grpc.io/)
+A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
+
+#### PUBLISH-SUBSCRIBE
+##### MESSAGING SYSTEM: [APACHE KAFKA](http://kafka.apache.org/)
+Apache Kafka is publish-subscribe messaging rethought as a distributed commit log
+
+##### INTERMEDIATE DATA FORMAT: [APACHE AVRO](https://avro.apache.org/docs/current/)
+Apache Avro™ is a data serialization system.
+Avro provides:
+* Rich data structures.
+* A compact, fast, binary data format.
+* A container file, to store persistent data.
+
+
+### VERSIONING
+#### [SEMANTIC VERSIONING 2.0.0](http://semver.org/spec/v2.0.0.html)
+> In systems with many dependencies, releasing new package versions can quickly become a nightmare. If the dependency specifications are too tight, you are in danger of version lock (the inability to upgrade a package without having to release new versions of every dependent package). If dependencies are specified too loosely, you will inevitably be bitten by version promiscuity (assuming compatibility with more future versions than is reasonable). Dependency hell is where you are when version lock and/or version promiscuity prevent you from easily and safely moving your project forward.
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+* MAJOR version when you make incompatible API changes,
+* MINOR version when you add functionality in a backwards-compatible manner, and
+* PATCH version when you make backwards-compatible bug fixes.
+
+### ACCESSIBILITY 
+#### [WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+> Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.
 
 
 ## Further Reading
