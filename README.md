@@ -19,8 +19,8 @@ Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/
 ## How To Use The Target Architecture
 1. The target architecture is the desired state
 2. Evaluate every system, process, organizational structure etc.
-3. Decide on and develop, one of two things
-  * Decommission Strategy
-  * Transformation Strategy
+ * For-Each, decide on and develop, one of two things
+   * Decommission Strategy
+    * Transformation Strategy
 4. "This is your wake-up call, pal. Go to work." - [Gordon Gekko](http://www.imdb.com/title/tt0094291/quotes)
 
