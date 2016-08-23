@@ -1,4 +1,4 @@
-# PHILOSOPHY
+# CULTURE
 
 ## From Command & Control To Purpose And Trust
 ### The innovative leader…
