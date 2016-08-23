@@ -1,6 +1,6 @@
 # PHILOSOPHY
 
-## Purpose And Trust
+## From Command & Control To Purpose And Trust
 ### The innovative leader…
 * Leads from the side
 * Inspires
