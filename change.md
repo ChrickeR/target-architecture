@@ -1,6 +1,6 @@
 # CHANGE
 
-## Lean Production
+## Continuous Improvement
 
 ## Fly By Instruments
 
