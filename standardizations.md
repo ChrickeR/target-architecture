@@ -1,59 +1,61 @@
-# STANDARDIZATIONS
+# SOFTWARE ARCHITECTURE
 
-## REVISION CONTROL AND SOURCE CODE MANAGEMENT
-### [GitHub](https://github.com)
+## STANDARDIZATIONS
+
+### REVISION CONTROL AND SOURCE CODE MANAGEMENT
+#### [GitHub](https://github.com)
 > GitHub is a web-based Git repository hosting service. It offers all of the distributed revision control and source code management(SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly acommand-line tool, GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests,task management, and wikis for every project.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 
-## BUG TRACKING, FEATURE REQUESTS, TASK MANAGEMENT AND DOCUMENTATION
-### [GitHub](https://github.com)
+### BUG TRACKING, FEATURE REQUESTS, TASK MANAGEMENT AND DOCUMENTATION
+#### [GitHub](https://github.com)
 > GitHub is a web-based Git repository hosting service. It offers all of the distributed revision control and source code management(SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly acommand-line tool, GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as bug tracking, feature requests,task management, and wikis for every project.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 
-## CONTAINER TECHNOLOGY
-### [DOCKER CONTAINERS](https://www.docker.com/what-docker)
+### CONTAINER TECHNOLOGY
+#### [DOCKER CONTAINERS](https://www.docker.com/what-docker)
 Docker containers wrap a piece of software in a complete filesystem that contains everything needed to run: code, runtime, system tools, system libraries – anything that can be installed on a server. This guarantees that the software will always run the same, regardless of its environment.
 
 
-## CONTAINER ORCHESTRATION
-### [KUBERNETES](http://kubernetes.io/)
+### CONTAINER ORCHESTRATION
+#### [KUBERNETES](http://kubernetes.io/)
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 
 
-## CAAS (CONTAINER AS A SERVICE
-### [GOOGLE CONTAINER ENGINE](https://cloud.google.com/container-engine/)
+### CAAS (CONTAINER AS A SERVICE
+#### [GOOGLE CONTAINER ENGINE](https://cloud.google.com/container-engine/)
 Google Container Engine is a powerful cluster manager and orchestration system for running your Docker containers. Container Engine schedules your containers into the cluster and manages them automatically based on requirements you define (such as CPU and memory). It's built on the open source Kubernetes system, giving you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.
 
 
-## CONTAINER WORKFLOW
-### [DEIS WORKFLOW](https://deis.com/workflow/)
+### CONTAINER WORKFLOW
+#### [DEIS WORKFLOW](https://deis.com/workflow/)
 Deis Workflow is an open source Platform as a Service (PaaS) that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications.
 
 
-## CONTAINER REGISTRY 
-### [GOOGLE CONTAINER REGISTRY](https://cloud.google.com/container-registry/)
+### CONTAINER REGISTRY 
+#### [GOOGLE CONTAINER REGISTRY](https://cloud.google.com/container-registry/)
 Fast, private Docker image storage on Google Cloud Platform
 
 
-## INTEGRATION BETWEEN SERVICES
-### REQUEST-RESPONSE
-#### RESTFUL: [JSON API](http://jsonapi.org/)
+### INTEGRATION BETWEEN SERVICES
+#### REQUEST-RESPONSE
+##### RESTFUL: [JSON API](http://jsonapi.org/)
 > If you’ve ever argued with your team about the way your JSON responses should be formatted, JSON API can be your anti-bikeshedding tool.
 
 > By following shared conventions, you can increase productivity, take advantage of generalized tooling, and focus on what matters: your application.
 
 > Clients built around JSON API are able to take advantage of its features around efficiently caching responses, sometimes eliminating network requests entirely.
 
-#### RPC: [GRPC](http://www.grpc.io/)
+##### RPC: [GRPC](http://www.grpc.io/)
 A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 
-### PUBLISH-SUBSCRIBE
-#### MESSAGING SYSTEM: [APACHE KAFKA](http://kafka.apache.org/)
+#### PUBLISH-SUBSCRIBE
+##### MESSAGING SYSTEM: [APACHE KAFKA](http://kafka.apache.org/)
 Apache Kafka is publish-subscribe messaging rethought as a distributed commit log
 
-#### INTERMEDIATE DATA FORMAT: [APACHE AVRO](https://avro.apache.org/docs/current/)
+##### INTERMEDIATE DATA FORMAT: [APACHE AVRO](https://avro.apache.org/docs/current/)
 Apache Avro™ is a data serialization system.
 Avro provides:
 * Rich data structures.
@@ -61,8 +63,8 @@ Avro provides:
 * A container file, to store persistent data.
 
 
-## VERSIONING
-### [SEMANTIC VERSIONING 2.0.0](http://semver.org/spec/v2.0.0.html)
+### VERSIONING
+#### [SEMANTIC VERSIONING 2.0.0](http://semver.org/spec/v2.0.0.html)
 > In systems with many dependencies, releasing new package versions can quickly become a nightmare. If the dependency specifications are too tight, you are in danger of version lock (the inability to upgrade a package without having to release new versions of every dependent package). If dependencies are specified too loosely, you will inevitably be bitten by version promiscuity (assuming compatibility with more future versions than is reasonable). Dependency hell is where you are when version lock and/or version promiscuity prevent you from easily and safely moving your project forward.
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
@@ -70,12 +72,12 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 * MINOR version when you add functionality in a backwards-compatible manner, and
 * PATCH version when you make backwards-compatible bug fixes.
 
-## ACCESSIBILITY 
-#### [WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+### ACCESSIBILITY 
+##### [WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 > Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.
 
-## SEARCH
-### [ALGOLIA](https://www.algolia.com/)
+### SEARCH
+#### [ALGOLIA](https://www.algolia.com/)
 > The Algolia model provides search as a service, offering web search across a client's website using an externally hosted search engine.
 
 > Although in-site search has long been available from general web search providers such as Google, this is typically done as a subset of general web searching. The search engine crawls or spiders the web at large, including the client site, and then offers search features restricted to only that target site. This is a large and complex task, available only to large organisations at the scale of Google or Microsoft.
@@ -86,9 +88,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
 
-
-
-## Further Reading
+### Further Reading
 * [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture)
 * [Microservices Resource Guide](http://martinfowler.com/microservices/)
 * [What are containers and why do you need them?](http://www.cio.com/article/2924995/enterprise-software/what-are-containers-and-why-do-you-need-them.html)
