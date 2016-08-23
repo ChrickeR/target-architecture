@@ -1,7 +1,12 @@
 # Target Architecture
 An Opinionated Target Architecture Intended For Mid-sized Insurance Companies And Companies Alike
 
-## Definition Of Target Architecture
+## What is Architecture?
+> IT architecture is the art and science of designing and delivering valuable technology strategy.
+
+Source: [What is Architecture?](http://iasaglobal.org/itabok/what-is-it-architecture/)
+
+## What is Target Architecture?
 > The description of a future state of the architecture being developed for an organization. There may be several future states developed as a roadmap to show the evolution of the architecture to a target state.
 
 Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_71)
