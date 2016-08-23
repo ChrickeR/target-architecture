@@ -1,6 +1,6 @@
 # BOUNDED CONTEXT
 
-## Business Capabilities
+## Business Capabilities And Information
 
 ## Business Services
 
