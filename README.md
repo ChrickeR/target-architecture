@@ -43,5 +43,11 @@ Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/
 
 ## Inspiring Companies
 * Zalando
- * [Tech](https://tech.zalando.de/)
+ * [Culture](https://tech.zalando.de/)
  * [Open Source](https://zalando.github.io/)
+* Spotify
+ * [Culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+* Facebook
+ * [Open Source](https://code.facebook.com/projects/)
+* LinkedIn
+ * [Open Source](https://engineering.linkedin.com/open-source)
