@@ -7,5 +7,4 @@
 ## When And How To Use, Buy Or Build
 
 ## Further Reading
-* 
 
