@@ -1,6 +1,7 @@
-# PATTERNS
+# SOFTWARE ARCHITECTURE
+## PATTERNS
 
-## [MICROSERVICES PATTERNS](http://microservices.io/patterns/index.html)
+### [MICROSERVICES PATTERNS](http://microservices.io/patterns/index.html)
 * [Database per service](http://microservices.io/patterns/data/database-per-service.html)
 * [Event-driven architecture](http://microservices.io/patterns/data/event-driven-architecture.html)
 * [Event sourcing](http://microservices.io/patterns/data/event-sourcing.html)
@@ -11,7 +12,7 @@
 * [Self Registration](http://microservices.io/patterns/self-registration.html)
 
 
-## STABILITY PATTERNS (INTEGRATION) PATTERNS
+### STABILITY PATTERNS (INTEGRATION) PATTERNS
 > Reliability in distributed systems is determined by the weakest component, so even a minor internal function could bring your entire system down. Learn how stability patterns anticipate the hot spots of distributed network behavior
 
 * 'Use Timeouts' pattern
@@ -21,6 +22,6 @@
 
 Source: [Stability patterns applied in a RESTful architecture](http://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 
-## Further Reading
+### Further Reading
 * [Stability patterns applied in a RESTful architecture](http://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 * [Microservice architecture](http://microservices.io/index.html)
