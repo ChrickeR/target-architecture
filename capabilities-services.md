@@ -1,7 +1,9 @@
-# Business Capabilities
+# BOUNDED CONTEXT
 
-# Business Services
+## Business Capabilities
 
-# Microservices
+## Business Services
 
-# Further Reading
+## Microservices
+
+## Further Reading
