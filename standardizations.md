@@ -1,5 +1,9 @@
 # SOFTWARE ARCHITECTURE
 
+* When transitioning to "Cloud-only", everything becomes code, even infrastructure ([Infrastructure as Code](http://martinfowler.com/bliki/InfrastructureAsCode.html))
+* When everything becomes code, it's part of the software architecture 
+* When everything becomes code, the same rules applys to all
+
 ## STANDARDIZATIONS
 
 ### REVISION CONTROL AND SOURCE CODE MANAGEMENT
@@ -92,3 +96,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
 * [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture)
 * [Microservices Resource Guide](http://martinfowler.com/microservices/)
 * [What are containers and why do you need them?](http://www.cio.com/article/2924995/enterprise-software/what-are-containers-and-why-do-you-need-them.html)
+* [InfrastructureAsCode](http://martinfowler.com/bliki/InfrastructureAsCode.html)
