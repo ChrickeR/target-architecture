@@ -18,7 +18,7 @@ Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/
   * Give guidance
   * Not be overly prescriptive
   * Be constantly evolving
-* We standardize only when
+* Standardize only when
   * Deemed necessary for the sake of interoperability
   * There is clearly a "better way of doing it"
 
