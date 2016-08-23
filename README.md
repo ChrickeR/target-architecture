@@ -6,6 +6,17 @@ An Opinionated Target Architecture Intended For Mid-sized Insurance Companies An
 
 Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html#tag_03_71)
 
+## Values
+* The target architecture shall
+  * Set the direction
+  * Set the boundaries
+  * Give guidance
+  * Not be overly prescriptive
+  * Be constantly evolving
+* We standardize only when
+  * Deemed necessary for the sake of interoperability
+  * There is clearly a "better way of doing it"
+
 ## Overview
 | [LEVELS](https://github.com/LarsBarkman/target-architecture/blob/master/levels.md)  | PHILOSOPHY  | [BOUNDED CONTEXT](https://github.com/LarsBarkman/target-architecture/blob/master/bounded-context.md#bounded-context)  | SOFTWARE ARCHITECTURE  | USE, BUY OR BUILD  | SHIP  | RUN  | CHANGE  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
