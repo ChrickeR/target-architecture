@@ -1,7 +1,4 @@
 # SOFTWARE ARCHITECTURE
-> IT architecture is the art and science of designing and delivering valuable technology strategy.
-
-Source: [What is Architecture?](http://iasaglobal.org/itabok/what-is-it-architecture/)
 
 ## Evolutionary Architecture
 
