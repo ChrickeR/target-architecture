@@ -42,3 +42,6 @@ Source: [TOGAF® Version 9.1](http://pubs.opengroup.org/architecture/togaf9-doc/
 3. "This is your wake-up call, pal. Go to work." - [Gordon Gekko](http://www.imdb.com/title/tt0094291/quotes)
 
 ## Inspiring Companies
+* Zalando
+ * [Tech](https://tech.zalando.de/)
+ * [Open Source](https://zalando.github.io/)
